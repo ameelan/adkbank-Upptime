@@ -40,9 +40,9 @@
     "url": "https://www.adirondackbank.com/",
     "icon": "https://favicons.githubusercontent.com/www.adirondackbank.com",
     "slug": "adirondack-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -52,6 +52,7 @@
     "timeMonth": 379,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2022-02-01": 0,
       "2022-01-07": 19
     }
   },
