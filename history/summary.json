@@ -41,18 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/www.adirondackbank.com",
     "slug": "adirondack-bank",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 335,
     "timeDay": 300,
     "timeWeek": 285,
     "timeMonth": 355,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-02-10": 10,
       "2022-02-06": 36,
       "2022-01-07": 19
     }
